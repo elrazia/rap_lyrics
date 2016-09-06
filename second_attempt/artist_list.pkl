@@ -1,0 +1,2263 @@
+(lp0
+S'100s'
+p1
+aS'100 Kila'
+p2
+aS'12 Gauge'
+p3
+aS'2$ Fabo'
+p4
+aS'2 Chainz'
+p5
+aS'2 Pistols'
+p6
+aS'2Mex'
+p7
+aS'360'
+p8
+aS'40 Glocc'
+p9
+aS'50 Cent'
+p10
+aS'6 Tre G'
+p11
+aS'The 6th Letter'
+p12
+aS'9th Wonder'
+p13
+aS'21 Savage'
+p14
+aS'A+'
+p15
+aS'A-Q'
+p16
+aS'Ab-Soul'
+p17
+aS'Abstract Rude'
+p18
+aS'Ace Hood'
+p19
+aS'Aceyalone'
+p20
+aS'Action Bronson'
+p21
+aS'Sammy Adams'
+p22
+aS'Aesop Rock'
+p23
+aS'Afrika Bambaataa'
+p24
+aS'Afroman'
+p25
+aS'Afu-Ra'
+p26
+aS'Ahmad'
+p27
+aS'Agallah'
+p28
+aS'Ajs Nigrutin'
+p29
+aS'Akala'
+p30
+aS'Akinyele (rapper)'
+p31
+aS'Akon'
+p32
+aS'The Alchemist'
+p33
+aS'Ali Vegas'
+p34
+aS'Amadeus'
+p35
+aS'AMG'
+p36
+aS'Amil'
+p37
+aS'Ampichino'
+p38
+aS'Anderson .Paak'
+p39
+aS'Andr\xc3\xa9 3000'
+p40
+aS'Angel Haze'
+p41
+aS'Ant'
+p42
+aS'Antoinette'
+p43
+aS'Apache'
+p44
+aS'Apathy'
+p45
+aS'ASAP Ferg'
+p46
+aS'ASAP Nast'
+p47
+aS'ASAP Rocky'
+p48
+aS'ASAP Twelvyy'
+p49
+aS'ASAP Yams'
+p50
+aS'Johnt\xc3\xa1 Austin'
+p51
+aS'Awkwafina'
+p52
+aS'AZ'
+p53
+aS'B.G.'
+p54
+aS'B.G. Knocc Out'
+p55
+aS'B.o.B'
+p56
+aS'B-Legit'
+p57
+aS'B-Real'
+p58
+aS'Baby Bash'
+p59
+aS'Baby Boy da Prince'
+p60
+aS'Baby D'
+p61
+aS'Baby Dubb'
+p62
+aS'Bad Azz'
+p63
+aS'Badshah'
+p64
+aS'Bahamadia'
+p65
+aS'Bangladesh'
+p66
+aS'Ant Banks'
+p67
+aS'Azealia Banks'
+p68
+aS'Bang Yong Guk'
+p69
+aS'Bas'
+p70
+aS'Battlecat'
+p71
+aS'Beanie Sigel'
+p72
+aS'The Beat Bully'
+p73
+aS'Becky G'
+p74
+aS'Beenie Man'
+p75
+aS'Jarren Benton'
+p76
+aS'Benzino'
+p77
+aS'Eric Biddines'
+p78
+aS'Big Boi'
+p79
+aS'Big Daddy Kane'
+p80
+aS'Big Ed'
+p81
+aS'Big Gipp'
+p82
+aS'Big Hawk'
+p83
+aS'Big K.R.I.T.'
+p84
+aS'Big Kuntry King'
+p85
+aS'Big L'
+p86
+aS'Big Lurch'
+p87
+aS'Big Mello'
+p88
+aS'Big Mike'
+p89
+aS'Big Moe'
+p90
+aS'Big Noyd'
+p91
+aS'Big Pokey'
+p92
+aS'Big Pooh'
+p93
+aS'Big Pun'
+p94
+aS'Big Reese'
+p95
+aS'Big Scoob'
+p96
+aS'Big Sean'
+p97
+aS'Big Shug'
+p98
+aS'Big Syke'
+p99
+aS'Bigg D'
+p100
+aS'Billy Woods'
+p101
+aS'Birdman'
+p102
+aS'Bishop Nehru'
+p103
+aS'Biz Markie'
+p104
+aS'Bizarre'
+p105
+aS'Bizzy Bone'
+p106
+aS'BJ the Chicago Kid'
+p107
+aS'Black Milk'
+p108
+aS'Black Rob'
+p109
+aS'Black Thought'
+p110
+aS'Toni Blackman'
+p111
+aS'Blade Icewood'
+p112
+aS'Benny Blanco'
+p113
+aS'Blaq Poet'
+p114
+aS'Blaze Ya Dead Homie'
+p115
+aS'Blood Raw'
+p116
+aS'Blu'
+p117
+aS'Bobby Shmurda'
+p118
+aS'Bohemia'
+p119
+aS'Boi-1da'
+p120
+aS'Boldy James'
+p121
+aS'Tyra Bolling'
+p122
+aS'Bone Crusher'
+p123
+aS'Tabi Bonney'
+p124
+aS'Booba'
+p125
+aS'Boondox'
+p126
+aS'Boosie Badazz'
+p127
+aS'Boss'
+p128
+aS'Bow Wow'
+p129
+aS'Braille'
+p130
+aS'Brandun DeShay'
+p131
+aS'Brisco'
+p132
+aS'Brotha Lynch Hung'
+p133
+aS'Brother Ali'
+p134
+aS'Chris Brown'
+p135
+aS'Danny Brown'
+p136
+aS'Bryson Tiller'
+p137
+aS'Bubba Sparxxx'
+p138
+aS'Buckshot'
+p139
+aS'Buckwild'
+p140
+aS'Joe Budden'
+p141
+aS'Bumpy Knuckles'
+p142
+aS'Bun B'
+p143
+aS'Busdriver'
+p144
+aS'Bushwick Bill'
+p145
+aS'Busta Rhymes'
+p146
+aS'Busy Bee Starski'
+p147
+aS'Butch Cassidy'
+p148
+aS'C-Bo'
+p149
+aS'C-Murder'
+p150
+aS'C-Note'
+p151
+aS'C-Rayz Walz'
+p152
+aS'CL'
+p153
+aS'Cage'
+p154
+aS'Kutt Calhoun'
+p155
+aS'Luther Campbell'
+p156
+aS"Cam'ron"
+p157
+aS'Canibus'
+p158
+aS'Don Cannon'
+p159
+aS'Nick Cannon'
+p160
+aS'Capital Steez'
+p161
+aS'Capone'
+p162
+aS'Cappadonna'
+p163
+aS'Clyde Carson'
+p164
+aS'Casey Veggies'
+p165
+aS'Cash Out'
+p166
+aS'Cashis'
+p167
+aS'Caskey'
+p168
+aS'Cassidy'
+p169
+aS'CeeLo Green'
+p170
+aS'Cellski'
+p171
+aS'Celly Cel'
+p172
+aS'Celph Titled'
+p173
+aS'John Cena'
+p174
+aS'Cesar Comanche'
+p175
+aS'Ceza'
+p176
+aS'Chamillionaire'
+p177
+aS'Chance the Rapper'
+p178
+aS'Chanel West Coast'
+p179
+aS'Channel 7'
+p180
+aS'Charizma'
+p181
+aS'Charli Baltimore'
+p182
+aS'Chi Ali'
+p183
+aS'Chiddy Bang'
+p184
+aS'Chief Keef'
+p185
+aS'Childish Gambino'
+p186
+aS'Tha Chill'
+p187
+aS'Chill Rob G'
+p188
+aS'Chingy'
+p189
+aS'Chino XL'
+p190
+aS'Chinx'
+p191
+aS'Chip'
+p192
+aS'Choice'
+p193
+aS'Choppa'
+p194
+aS'Chubb Rock'
+p195
+aS'Tha City Paper'
+p196
+aS'CJ Fly'
+p197
+aS'CL Smooth'
+p198
+aS'Classified'
+p199
+aS'Cold 187um'
+p200
+aS'Sean Combs'
+p201
+aS'Common'
+p202
+aS'Consequence'
+p203
+aS'Cool Breeze'
+p204
+aS'Cool C'
+p205
+aS'Coolio'
+p206
+aS'Copywrite'
+p207
+aS'Cormega'
+p208
+aS'Cory Gunz'
+p209
+aS'Count Bass D'
+p210
+aS'Bobby Creekwater'
+p211
+aS'Crime Boss'
+p212
+aS'Criminal Manne'
+p213
+aS'Crooked I'
+p214
+aS'Crucial Star'
+p215
+aS'Currensy'
+p216
+aS'Denzel Curry'
+p217
+aS'Curtiss King'
+p218
+aS'Cyhi the Prynce'
+p219
+aS'D-Nice'
+p220
+aS'The D.O.C.'
+p221
+aS'D-Pryde'
+p222
+aS'Da Brat'
+p223
+aS'Daddy-O'
+p224
+aS'David Dallas'
+p225
+aS'Damu the Fudgemunk'
+p226
+aS'Dana Dane'
+p227
+aS'Dan Bull'
+p228
+aS"D'Angelo"
+p229
+aS'Danny Boy'
+p230
+aS'Dappy'
+p231
+aS'Da$h'
+p232
+aS"Da'unda'dogg"
+p233
+aS'Dave East'
+p234
+aS'Daveed Diggs'
+p235
+aS'David Banner'
+p236
+aS'David Rush'
+p237
+aS'David Stones'
+p238
+aS'Daz Dillinger'
+p239
+aS'Dazzie Dee'
+p240
+aS"D'banj"
+p241
+aS'Mike Dean'
+p242
+aS'Dee Barnes'
+p243
+aS'Def Jef'
+p244
+aS'Dej Loaf'
+p245
+aS'Del the Funky Homosapien'
+p246
+ag217
+aS'Demrick'
+p247
+aS'Derek Minor'
+p248
+aS'Desiigner'
+p249
+aS'Detail'
+p250
+aS'Deuce'
+p251
+aS'Dev'
+p252
+aS'Devin the Dude'
+p253
+aS'Devlin'
+p254
+aS'Diabolic'
+p255
+aS'Diamond'
+p256
+aS'Diamond D'
+p257
+aS'Diggy Simmons'
+p258
+aS'Dillon Cooper'
+p259
+aS'Disco D'
+p260
+aS'Disco King Mario'
+p261
+aS'Dizzee Rascal'
+p262
+aS'Dizzy Wright'
+p263
+aS'DJ Cash Money'
+p264
+aS'DJ Casper'
+p265
+aS'DJ Clay'
+p266
+aS'DJ Clue?'
+p267
+aS'DJ Drama'
+p268
+aS'DJ Felli Fel'
+p269
+aS'DJ Flash'
+p270
+aS'DJ Fuze'
+p271
+aS'DJ Green Lantern'
+p272
+aS'DJ Head'
+p273
+aS'DJ Hurricane'
+p274
+aS'DJ Kay Slay'
+p275
+aS'DJ Khaled'
+p276
+aS'DJ Krush'
+p277
+aS'DJ Mustard'
+p278
+aS'DJ Paul'
+p279
+aS'DJ Pooh'
+p280
+aS'DJ Premier'
+p281
+aS'DJ Quik'
+p282
+aS'DJ Screw'
+p283
+aS'DJ Shadow'
+p284
+aS'DJ Yella'
+p285
+aS'DMX'
+p286
+aS'Doap Nixon'
+p287
+aS'Doe B'
+p288
+aS'Dok2'
+p289
+aS'Dolla'
+p290
+aS'Dom Kennedy'
+p291
+aS'Dominique Young Unique'
+p292
+aS'Domino'
+p293
+aS'Domo Genesis'
+p294
+aS'Donnis'
+p295
+aS'Dorrough'
+p296
+aS'Doseone'
+p297
+aS'Doug E. Fresh'
+p298
+aS'Doughbeezy'
+p299
+aS'Drag-On'
+p300
+aS'Dr. Dre'
+p301
+aS'Drake'
+p302
+aS'Dres'
+p303
+aS'Dresta'
+p304
+aS'Drew Deezy'
+p305
+aS'Driicky Graham'
+p306
+aS'Droop-E'
+p307
+aS'Dru Down'
+p308
+aS'Drumma Boy'
+p309
+aS'Dumbfoundead'
+p310
+aS'Duncan Mighty'
+p311
+aS'Jermaine Dupri'
+p312
+aS'E-40'
+p313
+aS'E.D.I. Mean'
+p314
+aS'E.S.G.'
+p315
+aS'Earl Sweatshirt'
+p316
+aS'Easy Mo Bee'
+p317
+aS'Eazy-E'
+p318
+aS'Ed O.G.'
+p319
+aS'Edo Maajka'
+p320
+aS'El Da Sensei'
+p321
+aS'El-P'
+p322
+aS'Elephant Man'
+p323
+aS'Missy Elliott'
+p324
+aS'Elzhi'
+p325
+aS'Eminem'
+p326
+aS'Esham'
+p327
+aS'Eve'
+p328
+aS'Evidence'
+p329
+aS'Eyedea'
+p330
+aS'Fabolous'
+p331
+aS'Fabri Fibra'
+p332
+aS'Fam-Lay'
+p333
+aS'Deniro Farrar'
+p334
+aS'Fashawn'
+p335
+aS'Fat Joe'
+p336
+aS'Fat Pat'
+p337
+aS'Fat Trel'
+p338
+aS'Fatboi'
+p339
+aS'Father MC'
+p340
+aS'Fatman Scoop'
+p341
+aS'Fergie'
+p342
+aS'Fetty Wap'
+p343
+aS'Fiend'
+p344
+aS'FLAME'
+p345
+aS'Flavor Flav'
+p346
+aS"Flavour N'abania"
+p347
+aS'Flo Rida'
+p348
+aS'Flying Lotus'
+p349
+aS'Focus...'
+p350
+aS'Fonzworth Bentley'
+p351
+aS'Fort Minor'
+p352
+aS'Gilbere Forte'
+p353
+aS'Foxx'
+p354
+aS'Tiffany Foxx'
+p355
+aS'Foxy Brown'
+p356
+aS'Frank Ocean'
+p357
+aS'Frankie J'
+p358
+aS'Frayser Boy'
+p359
+aS'Freak Nasty'
+p360
+aS'Freaky Tah'
+p361
+aS'Freddie Foxxx'
+p362
+aS'Freddie Gibbs'
+p363
+aS'Fredo Santana'
+p364
+aS'Fredro Starr'
+p365
+aS'Fredwreck'
+p366
+aS'Free'
+p367
+aS'Freekey Zekey'
+p368
+aS'Freeway'
+p369
+aS'French Montana'
+p370
+aS'Frenkie'
+p371
+aS'Fresh Kid Ice'
+p372
+aS'Froggy Fresh'
+p373
+aS'Frost'
+p374
+aS'Full Blooded'
+p375
+aS'Funkmaster Flex'
+p376
+aS'Future'
+p377
+aS'G. Dep'
+p378
+aS'G-Eazy'
+p379
+aS'G-Dragon'
+p380
+aS'The Game'
+p381
+aS'Gary'
+p382
+aS'Gangsta Blac'
+p383
+aS'Gangsta Boo'
+p384
+aS'Gaeko'
+p385
+aS'Ganksta N-I-P'
+p386
+aS'General Woo'
+p387
+aS'Gene Clash'
+p388
+aS'Ghostface Killah'
+p389
+aS'Giggs'
+p390
+aS'Glasses Malone'
+p391
+aS'GLC'
+p392
+aS'Goldie Loc'
+p393
+aS'Gorilla Zoe'
+p394
+aS'Grafh'
+p395
+aS'Grand Puba'
+p396
+aS'Grandmaster Flash'
+p397
+aS'Greydon Square'
+p398
+aS'Grieves'
+p399
+aS'Gucci Mane'
+p400
+aS'Gudda Gudda'
+p401
+aS'Guerilla Black'
+p402
+aS'Guilty Simpson'
+p403
+aS'Gunplay'
+p404
+aS'Guru'
+p405
+aS'Gza'
+p406
+aS'Half a Mill'
+p407
+aS'Charles Hamilton'
+p408
+aS'Hard Kaur'
+p409
+aS'Havoc'
+p410
+aS'Heavy D'
+p411
+aS'Hi-C'
+p412
+aS'Hi-Tek'
+p413
+aS'Lauryn Hill'
+p414
+aS'Jackie Hill-Perry'
+p415
+aS'Hit-Boy'
+p416
+aS'Hittman'
+p417
+aS'Hodgy Beats'
+p418
+aS'Honey Cocaine'
+p419
+aS'Hoodie Allen'
+p420
+aS'Hopsin'
+p421
+aS'Hot Dollar'
+p422
+aS'Huey'
+p423
+aS'Hurricane Chris'
+p424
+aS'Hurricane G'
+p425
+aS'Hush'
+p426
+aS'Hussein Fatal'
+p427
+aS'I-20'
+p428
+aS'Iamsu!'
+p429
+aS'Ice Cube'
+p430
+aS'Ice-T'
+p431
+aS'Iggy Azalea'
+p432
+aS'IHeartMemphis'
+p433
+aS'Ill Bill'
+p434
+aS'Illmind'
+p435
+aS'ILoveMakonnen'
+p436
+aS'Immortal Technique'
+p437
+aS'Imran Khan'
+p438
+aS'Indo G'
+p439
+aS'Inspectah Deck'
+p440
+aS'Isaiah Rashad'
+p441
+aS'Iyanya'
+p442
+aS'Iyaz'
+p443
+aS'J. Cole'
+p444
+aS'J-Diggs'
+p445
+aS'J Dilla'
+p446
+aS'J.Gray'
+p447
+aS'J. Jewels'
+p448
+aS'J-Kwon'
+p449
+aS'J.R. Rotem'
+p450
+aS'J.R. Writer'
+p451
+aS'J-Son'
+p452
+aS'J. Stalin'
+p453
+aS'J. Valentine'
+p454
+aS'Ja Rule'
+p455
+aS'Jack Parow'
+p456
+aS'The Jacka'
+p457
+aS'Jadakiss'
+p458
+aS'Jeremiah Jae'
+p459
+aS'Jae Millz'
+p460
+aS'Jahlil Beats'
+p461
+aS'Jake One'
+p462
+aS'Jam Master Jay'
+p463
+aS'Jamal'
+p464
+aS'Jamie Foxx'
+p465
+aS'Jay Burna'
+p466
+aS'Jay Electronica'
+p467
+aS'Jay Park'
+p468
+aS'Jay Rock'
+p469
+aS'Jay-Z'
+p470
+aS'Jayo Felony'
+p471
+aS'Jaz-O'
+p472
+aS'Jazze Pha'
+p473
+aS'Wyclef Jean'
+p474
+aS'Jean Grae'
+p475
+aS'Mick Jenkins'
+p476
+aS'Jeremih'
+p477
+aS'Jeru the Damaja'
+p478
+aS'Jewell'
+p479
+aS'Jibbs'
+p480
+aS'Jim Jonsin'
+p481
+aS'Jme'
+p482
+aS'Joey Badass'
+p483
+aS'Johnny "J"'
+p484
+aS'Jon Connor'
+p485
+aS'Jim Jones'
+p486
+aS'Mike Jones'
+p487
+aS'Serius Jones'
+p488
+aS'JT the Bigga Figga'
+p489
+aS'JT Money'
+p490
+aS'Juelz Santana'
+p491
+aS'Juice (\xc4\x90us)'
+p492
+aS'Juicy J'
+p493
+aS'Junhyung'
+p494
+aS'Jus Allah'
+p495
+aS'Just Ice'
+p496
+aS'Juvenile'
+p497
+aS'K Camp'
+p498
+aS'K-Dee'
+p499
+aS'K.E. on the Track'
+p500
+aS'K-OS'
+p501
+aS'K-Rab'
+p502
+aS'K-Solo'
+p503
+aS'K7'
+p504
+aS'Kafani'
+p505
+aS'Kam'
+p506
+aS'Kangol Kid'
+p507
+aS'Kap G'
+p508
+aS'Kardinal Offishall'
+p509
+aS'Kastro'
+p510
+aS'Kat Dahlia'
+p511
+aS'KB'
+p512
+aS'Keak da Sneak'
+p513
+aS'Kerser'
+p514
+aS'Kevin Gates'
+p515
+aS'Khia'
+p516
+aS'Khleo'
+p517
+aS'Kia Shine'
+p518
+aS'Kid Capri'
+p519
+aS'Kid Cudi'
+p520
+aS'Kid Frost'
+p521
+aS'Kid Ink'
+p522
+aS'Kid Rock'
+p523
+aS'Kid Sister'
+p524
+aS'Kidd Kidd'
+p525
+aS'Killah Priest'
+p526
+aS'Killer Mike'
+p527
+aS'Kilo Ali'
+p528
+aS'King Chip'
+p529
+aS'King Gordy'
+p530
+aS'King L'
+p531
+aS'King Tee'
+p532
+aS'Kirko Bangz'
+p533
+aS'Kitty'
+p534
+aS'KJ-52'
+p535
+aS"K'naan"
+p536
+aS'Knero'
+p537
+aS"Knoc-turn'al"
+p538
+aS'KO'
+p539
+aS'Kodak Black'
+p540
+aS'Kokane'
+p541
+aS'Kool A.D'
+p542
+aS'Kool G Rap'
+p543
+aS'Kool Keith'
+p544
+aS'Kool Moe Dee'
+p545
+aS'Koolade'
+p546
+aS'Krayzie Bone'
+p547
+aS'Kreayshawn'
+p548
+aS'Krizz Kaliko'
+p549
+aS'KRS-One'
+p550
+aS'Kurious'
+p551
+aS'Kurtis Blow'
+p552
+aS'Kurupt'
+p553
+aS'Kung Fu Vampire'
+p554
+aS'Kwam\xc3\xa9'
+p555
+aS'Talib Kweli'
+p556
+aS'L.T. Hutton'
+p557
+aS'La Chat'
+p558
+aS'La the Darkman'
+p559
+aS'The Lady of Rage'
+p560
+aS'Lady Luck'
+p561
+aS'Lakey The Kid'
+p562
+aS'Lakutis'
+p563
+aS'Large Professor'
+p564
+aS'Laroo T.H.H.'
+p565
+aS'Kendrick Lamar'
+p566
+aS'Lazarus'
+p567
+aS'LE'
+p568
+aS'Lecrae'
+p569
+aS'Tracey Lee'
+p570
+aS'Left Brain'
+p571
+aS'Lex Luger'
+p572
+aS"Lil' \xc2\xbd Dead"
+p573
+aS'Lil B'
+p574
+aS'Lil Bibby'
+p575
+aS"Lil' Cease"
+p576
+aS'Lil Debbie'
+p577
+aS'Lil Dicky'
+p578
+aS'Lil Durk'
+p579
+aS'Lil Eazy E'
+p580
+aS"Lil' Fizz"
+p581
+aS"Lil' Flip"
+p582
+aS'Lil Herb'
+p583
+aS'Lil Jon'
+p584
+aS"Lil' Keke"
+p585
+aS"Lil' Kim"
+p586
+aS'Lil Mama'
+p587
+aS"Lil' O"
+p588
+aS'Lil Phat'
+p589
+aS'Lil Reese'
+p590
+aS'Lil Ric'
+p591
+aS"Lil' Ronnie"
+p592
+aS'Lil Ru'
+p593
+aS'Lil Scrappy'
+p594
+aS"Lil' Troy"
+p595
+aS'Lil Twist'
+p596
+aS'Lil Uzi Vert'
+p597
+aS'Lil Wayne'
+p598
+aS"Lil' Wil"
+p599
+aS'Lil Wyte'
+p600
+aS'Lil Yachty'
+p601
+aS'Lil Zane'
+p602
+aS'Lin Que'
+p603
+aS'LL Cool J'
+p604
+aS'Lloyd Banks'
+p605
+aS'Logic'
+p606
+aS'Theophilus London'
+p607
+aS'Loon'
+p608
+aS'Lisa Lopes'
+p609
+aS'Lord Finesse'
+p610
+aS'Lord Have Mercy'
+p611
+aS'Lord Infamous'
+p612
+aS'Lord Jamar'
+p613
+aS'Los'
+p614
+aS'Louis Logic'
+p615
+aS'Lovebug Starski'
+p616
+aS'LoveRance'
+p617
+aS'Lowkey'
+p618
+aS'LRoc'
+p619
+aS'Ludacris'
+p620
+aS'Luni Coleone'
+p621
+aS'Lupe Fiasco'
+p622
+aS'M-1'
+p623
+aS'M.I.A.'
+p624
+aS'M Trill'
+p625
+aS'Mac'
+p626
+aS'Mac Dre'
+p627
+aS'Mac Lethal'
+p628
+aS'Mac Mall'
+p629
+aS'Mac Miller'
+p630
+aS'Mac Minister'
+p631
+aS'Machine Gun Kelly'
+p632
+aS'Mack 10'
+p633
+aS'Craig Mack'
+p634
+aS'Mack Maine'
+p635
+aS'Macklemore'
+p636
+aS'Mad Lion'
+p637
+aS'Madchild'
+p638
+aS'Madlib'
+p639
+aS'Maejor Ali'
+p640
+aS'Magic'
+p641
+aS'Magnolia Shorty'
+p642
+aS'Maino'
+p643
+aS'Mann'
+p644
+aS'Mannie Fresh'
+p645
+aS'Mar\xc4\x8delo'
+p646
+aS'Marcus Orelias'
+p647
+aS'Marley Marl'
+p648
+aS'Christopher Martin'
+p649
+aS'Terrace Martin'
+p650
+aS'Angie Martinez'
+p651
+aS'Marvaless'
+p652
+aS'Marz'
+p653
+aS'Mase'
+p654
+aS'Masspike Miles'
+p655
+aS'Masta Ace'
+p656
+aS'Masta Killa'
+p657
+aS'Master P'
+p658
+aS'Master Shortie'
+p659
+aS'Matt Toka'
+p660
+aS'Max B'
+p661
+aS'MC Breed'
+p662
+aS'MckeezyK'
+p663
+aS'MC Eiht'
+p664
+aS'MC Frontalot'
+p665
+aS'MC Hammer'
+p666
+aS'MC Jin'
+p667
+aS'MC Lyte'
+p668
+aS'MC Mong'
+p669
+aS'MC Ren'
+p670
+aS'MC Serch'
+p671
+aS'MC Shan'
+p672
+aS'MC Solaar'
+p673
+aS'MC Trouble'
+p674
+aS'MC Tunes'
+p675
+aS'Kevin McCall'
+p676
+aS'Meek Mill'
+p677
+aS'Mellow Man Ace'
+p678
+aS'Memphis Bleek'
+p679
+aS'Vic Mensa'
+p680
+aS'Messy Marv'
+p681
+aS'Method Man'
+p682
+aS'Metro Boomin'
+p683
+aS'MF Doom'
+p684
+aS'MF Grimm'
+p685
+aS'Mia X'
+p686
+aS'Mickey Factz'
+p687
+aS'Mic Geronimo'
+p688
+aS'Mike G'
+p689
+aS'Mike Stud'
+p690
+aS'Mike Will Made It'
+p691
+aS'Mike Zombie'
+p692
+aS'Jake Miller'
+p693
+aS'Milo'
+p694
+aS'Mims'
+p695
+aS'Nicki Minaj'
+p696
+aS'Andy Mineo'
+p697
+aS'Mino'
+p698
+aS'Mista Grimm'
+p699
+aS'Mistah F.A.B.'
+p700
+aS'Mister Cee'
+p701
+aS'Mitchy Slick'
+p702
+aS'Mo B. Dick'
+p703
+aS'Money-B'
+p704
+aS'Monie Love'
+p705
+aS'LoLa Monroe'
+p706
+aS'Mopreme Shakur'
+p707
+aS'Mos Def'
+p708
+aS'Mr. Capone-E'
+p709
+aS'Mr. Cheeks'
+p710
+aS'Mr. Collipark'
+p711
+aS'Mr. Criminal'
+p712
+aS'Mr. Lif'
+p713
+aS"Mr. Muthafuckin' eXquire"
+p714
+aS'Mr. Porter'
+p715
+aS'Mr. Serv-On'
+p716
+aS'Mr. Short Khop'
+p717
+aS'Ms. Jade'
+p718
+aS'Murphy Lee'
+p719
+aS'Keith Murray'
+p720
+aS'Murs'
+p721
+aS'Miryo'
+p722
+aS'Mystikal'
+p723
+aS'Myzery'
+p724
+aS'N.O. Joe'
+p725
+aS'N.O.R.E.'
+p726
+aS'Napoleon'
+p727
+aS'Nas'
+p728
+aS'Nawawe'
+p729
+aS'Nate Dogg'
+p730
+aS'Nature'
+p731
+aS'Necro'
+p732
+aS'Needlz'
+p733
+aS'Nelly'
+p734
+aS'NF'
+p735
+aS'Andre Nickatina'
+p736
+aS'Nikki D'
+p737
+aS'Nipsey Hussle'
+p738
+aS'Nitty'
+p739
+aS'No Malice'
+p740
+aS'Noname'
+p741
+aS'Noah "40" Shebib'
+p742
+aS'Nonchalant'
+p743
+aS'The Notorious B.I.G.'
+p744
+aS'Nottz'
+p745
+aS'Nujabes'
+p746
+aS'Nump'
+p747
+aS'Numskull'
+p748
+aS'Nyzzy Nyce'
+p749
+aS'Casper Nyovest'
+p750
+aS'Oddisee'
+p751
+aS'Osman saif eddin'
+p752
+aS'OG Maco'
+p753
+aS'Oh No'
+p754
+aS'OJ da Juiceman'
+p755
+aS"Ol' Dirty Bastard"
+p756
+aS'Olivia'
+p757
+aS'Omarion'
+p758
+aS'Omega Red'
+p759
+aS'Omillio Sparks'
+p760
+aS"Shaquille O'Neal"
+p761
+aS'Oneya'
+p762
+aS'Open Mike Eagle'
+p763
+aS'Joell Ortiz'
+p764
+aS'Olamide'
+p765
+aS'P. Reign'
+p766
+aS'P.C.T'
+p767
+aS'Petey Pablo'
+p768
+aS'Papa Reu'
+p769
+aS'Papoose'
+p770
+aS'Paris'
+p771
+aS'Pastor Troy'
+p772
+aS'Paul Wall'
+p773
+aS'Peedi Peedi'
+p774
+aS'Peewee Longway'
+p775
+aS'Percee P'
+p776
+aS'Brianna Perry'
+p777
+aS'Pharoahe Monch'
+p778
+aS'Phat Kat'
+p779
+aS'Phife Dawg'
+p780
+aS'Philthy Rich'
+p781
+aS'Phyno'
+p782
+aS'Pill'
+p783
+aS'Pimp C'
+p784
+aS'Pitbull'
+p785
+aS'Planet Asia'
+p786
+aS'Planetary'
+p787
+aS'Plies'
+p788
+aS'PNC'
+p789
+aS'Positive K'
+p790
+aS'Post Malone'
+p791
+aS'Mike Posner'
+p792
+aS'Pras'
+p793
+aS'Prince Ital Joe'
+p794
+aS'Prince Paul'
+p795
+aS'Prince Po'
+p796
+aS'Problem'
+p797
+aS'Prodigy'
+p798
+aS'Professor Green'
+p799
+aS'Project Pat'
+p800
+aS'Proof'
+p801
+aS'Prozak'
+p802
+aS'Psy'
+p803
+aS'Pusha T'
+p804
+aS'Q-Tip'
+p805
+aS'Quan'
+p806
+aS'Quazedelic'
+p807
+aS'Queen Latifah'
+p808
+aS'Queen Pen'
+p809
+aS'Quincy Jones III'
+p810
+aS'Qwazaar'
+p811
+aS'Qwel'
+p812
+aS'R.A. the Rugged Man'
+p813
+aS'Raekwon'
+p814
+aS'Rap Monster'
+p815
+aS'Ronnie Radke'
+p816
+aS'Rah Digga'
+p817
+aS'Rahzel'
+p818
+aS'Rakim'
+p819
+aS'Ramriddlz'
+p820
+aS'Rampage'
+p821
+aS"Rappin' 4-Tay"
+p822
+aS'Rapsody'
+p823
+aS'Ras Kass'
+p824
+aS'Rasheeda'
+p825
+aS'Ray Cash'
+p826
+aS'Ray J'
+p827
+aS'Ray Luv'
+p828
+aS'Raz Fresco'
+p829
+aS'RBX'
+p830
+aS'The Real Roxanne'
+p831
+aS'Really Doe'
+p832
+aS'Red Caf\xc3\xa9'
+p833
+aS'Red Spyda'
+p834
+aS'Redfoo'
+p835
+aS'Redman'
+p836
+aS'Reef the Lost Cauze'
+p837
+aS'Reema Major'
+p838
+aS'Christopher Reid'
+p839
+aS'Reks'
+p840
+aS'Remy Ma'
+p841
+aS'Luis Resto'
+p842
+aS'Rhymefest'
+p843
+aS'Rich Boy'
+p844
+aS'Rich Homie Quan'
+p845
+aS'Rich The Kid'
+p846
+aS'Richie Rich'
+p847
+aS'Rick Rock'
+p848
+aS'Rick Ross'
+p849
+aS'Rico Love'
+p850
+aS'Riff Raff'
+p851
+aS'Rittz'
+p852
+aS'RJD2'
+p853
+aS'Rob Sonic'
+p854
+aS'Roc Marciano'
+p855
+aS'Rockie Fresh'
+p856
+aS'Rocko'
+p857
+aS'Romeo Miller'
+p858
+aS'Roots Manuva'
+p859
+aS'Roscoe'
+p860
+aS'Roscoe Dash'
+p861
+aS'Asher Roth'
+p862
+aS'Rowdy Rebel'
+p863
+aS'Royce da 5\'9"'
+p864
+aS'Rucka Rucka Ali'
+p865
+aS'Rydah J. Klyde'
+p866
+aS'Rye Rye'
+p867
+aS'Rza'
+p868
+aS'Saafir'
+p869
+aS'Sabac Red'
+p870
+aS'Sacario'
+p871
+aS'Sadat X'
+p872
+aS'Sadistik'
+p873
+aS'Sage Francis'
+p874
+aS'Sage the Gemini'
+p875
+aS'Saigon'
+p876
+aS'Hasan Salaam'
+p877
+aS'Adam Saleh'
+p878
+aS'San E'
+p879
+aS'San Quinn'
+p880
+aS'Sarkodie'
+p881
+aS'Sauce Money'
+p882
+aS'Savage'
+p883
+aS'Scarface'
+p884
+aS'Schoolboy Q'
+p885
+aS'Schoolly D'
+p886
+aS'Nitty Scott, MC'
+p887
+aS'Scotty'
+p888
+aS'Scram Jones'
+p889
+aS'Scribe'
+p890
+aS'Scrilla'
+p891
+aS'Scrufizzer'
+p892
+aS'SD'
+p893
+aS'Sean Price'
+p894
+aS'Sean T'
+p895
+aS'Erick Sermon'
+p896
+aS'Sev Statik'
+p897
+aS'Sha Money XL'
+p898
+aS'Shabazz the Disciple'
+p899
+aS'Lakim Shabazz'
+p900
+aS'Shad'
+p901
+aS'Shade Sheist'
+p902
+aS'Shady Nate'
+p903
+aS'Shaggy 2 Dope'
+p904
+aS'Tupac Shakur'
+p905
+aS'Roxanne Shant\xc3\xa9'
+p906
+aS'Shawnna'
+p907
+aS'Shawty Lo'
+p908
+aS'Sheek Louch'
+p909
+aS'Shing02'
+p910
+aS'Mike Shinoda'
+p911
+aS'Sho Baraka'
+p912
+aS'Shock G'
+p913
+aS'Shorty'
+p914
+aS'Shorty Mack'
+p915
+aS'Shwayze'
+p916
+aS'Shy Glizzy'
+p917
+aS'Shyheim'
+p918
+aS'Shyne'
+p919
+ag72
+aS'Silent\xc3\xb3'
+p920
+aS'Silkk the Shocker'
+p921
+aS'Simon D'
+p922
+aS'Verse Simmonds'
+p923
+aS'Sir Jinx'
+p924
+aS'Sir Mix-a-Lot'
+p925
+aS'\xc5\xa0kabo'
+p926
+aS'Skee-Lo'
+p927
+aS'Skeme'
+p928
+aS'Skinnyman'
+p929
+aS'Skizzy Mars'
+p930
+aS'Skyzoo'
+p931
+aS'SL Jones'
+p932
+aS'Sleepy Brown'
+p933
+aS'Slick Pulla'
+p934
+aS'Slick Rick'
+p935
+aS'Slim Burna'
+p936
+aS'Slim Thug'
+p937
+aS'Slug'
+p938
+aS'Will Smith'
+p939
+aS'Willow Smith'
+p940
+aS'Smitty'
+p941
+aS'Smoke DZA'
+p942
+aS'Smooth'
+p943
+aS'Smoothe da Hustler'
+p944
+aS'Sam Sneed'
+p945
+aS'Snoop Dogg'
+p946
+aS'Snootie Wild'
+p947
+aS'Snow Tha Product'
+p948
+aS'Soce, the elemental wizard'
+p949
+aS'Sole'
+p950
+aS'Solzilla'
+p951
+aS'Sonny Digital'
+p952
+aS'Sonsee'
+p953
+aS'Soopafly'
+p954
+aS'Soulja Boy'
+p955
+aS'Soulja Slim'
+p956
+aS'South Park Mexican'
+p957
+aS'Southside'
+p958
+aS'SpaceGhostPurrp'
+p959
+aS'Clinton Sparks'
+p960
+aS'Special Ed'
+p961
+aS'Spice 1'
+p962
+aS'Spider Loc'
+p963
+aS'Spoonie Gee'
+p964
+aS'Spose'
+p965
+aS'Spot'
+p966
+aS'Stalley'
+p967
+aS'Eric Stanley'
+p968
+aS'Vince Staples'
+p969
+aS'Starlito'
+p970
+aS'Stat Quo'
+p971
+aS'Static Major'
+p972
+aS'Statik Selektah'
+p973
+aS'Steady B'
+p974
+aS'Stevie Joe'
+p975
+aS'Stezo'
+p976
+aS'Sticky Fingaz'
+p977
+aS'Stoka'
+p978
+aS'Stevie Stone'
+p979
+aS'Scott Storch'
+p980
+aS'Stoupe the Enemy of Mankind'
+p981
+aS'Street Radio'
+p982
+aS'StreetRunner'
+p983
+aS'Stretch'
+p984
+aS'Styles P'
+p985
+aS'Substantial'
+p986
+aS'Suga Free'
+p987
+aS'Swagg Man'
+p988
+aS'Sweet Tee'
+p989
+aS'Swizz Beatz'
+p990
+aS'SwizZz'
+p991
+aS'Syd Tha Kyd'
+p992
+aS'SZA'
+p993
+aS'T-Bone'
+p994
+aS'T.I.'
+p995
+aS'T.O.P'
+p996
+aS'T La Rock'
+p997
+aS'T. Mills'
+p998
+aS'T-Nutty'
+p999
+aS'T-Pain'
+p1000
+aS'T-Wayne'
+p1001
+aS'Target'
+p1002
+aS'Tay Dizm'
+p1003
+aS'Tablo'
+p1004
+aS'Teyana Taylor'
+p1005
+aS'TD Cruze'
+p1006
+aS'Teairra Mar\xc3\xad'
+p1007
+aS'Tech N9ne'
+p1008
+aS'Tedashii'
+p1009
+aS'TeeFlii'
+p1010
+aS'Tekitha'
+p1011
+aS'Tela'
+p1012
+aS'The Coup'
+p1013
+aS'The Quiett'
+p1014
+aS'Termanology'
+p1015
+aS'Timaya'
+p1016
+aS'Timbaland'
+p1017
+aS'Timbe'
+p1018
+aS'Tinie Tempah'
+p1019
+aS'Tone L\xc5\x8dc'
+p1020
+aS'Tone Trump'
+p1021
+aS'Tonedeff'
+p1022
+aS'Tony Yayo'
+p1023
+aS'Too Short'
+p1024
+aS'Torch (American)'
+p1025
+aS'Torch (German)'
+p1026
+aS'Tory Lanez'
+p1027
+aS'Tha Trademarc'
+p1028
+aS'Trae tha Truth'
+p1029
+aS'Tragedy Khadafi'
+p1030
+aS'Travis Scott'
+p1031
+aS'Traxamillion'
+p1032
+aS'Tray Deee'
+p1033
+aS'Tre-8'
+p1034
+aS'Treach'
+p1035
+aS'Trey Songz'
+p1036
+aS'Obie Trice'
+p1037
+aS'Trick Daddy'
+p1038
+aS'Trick-Trick'
+p1039
+aS'Trina'
+p1040
+aS'Trinidad James'
+p1041
+aS'Trip Lee'
+p1042
+aS'Roger Troutman'
+p1043
+aS'Troy Ave'
+p1044
+aS'Turf Talk'
+p1045
+aS'Turk'
+p1046
+aS'Tweedy Bird Loc'
+p1047
+aS'Twista'
+p1048
+aS'Twisted Insane'
+p1049
+aS'Ty Dolla Sign'
+p1050
+aS'Tyga'
+p1051
+aS'Tyler Joseph'
+p1052
+aS'Tyler, The Creator'
+p1053
+aS'U-God'
+p1054
+aS'Uncle Murda'
+p1055
+aS'Unk'
+p1056
+aS'V-Nasty'
+p1057
+aS'Vado'
+p1058
+aS'Vakill'
+p1059
+aS'Valete'
+p1060
+aS'Vanilla Ice'
+p1061
+aS'Vast Aire'
+p1062
+aS'Verbal Jint'
+p1063
+aS'V.I.C.'
+p1064
+ag680
+aS'Vinnie Paz'
+p1065
+aS'Violent J'
+p1066
+aS'VL Mike'
+p1067
+aS'Waka Flocka Flame'
+p1068
+aS'Wale'
+p1069
+aS'Warren G'
+p1070
+aS'Watsky'
+p1071
+aS'Wax (rapper)'
+p1072
+aS'WC'
+p1073
+aS'Webbie'
+p1074
+aS'Chris Webby'
+p1075
+aS'Kanye West'
+p1076
+aS'Wikluh Sky'
+p1077
+aS'Tristan Wilds'
+p1078
+aS'will.i.am'
+p1079
+aS'Pharrell Williams'
+p1080
+aS'Willie D'
+p1081
+aS'Willie the Kid'
+p1082
+aS'Willy Northpole'
+p1083
+aS'Witchdoctor'
+p1084
+aS'Wiz Khalifa'
+p1085
+aS'Wizkid'
+p1086
+aS'Chevy Woods'
+p1087
+aS'Jamal Woolard'
+p1088
+aS'Nicole Wray'
+p1089
+aS'Wrekonize'
+p1090
+aS'X-Raided'
+p1091
+aS'XV'
+p1092
+aS'Xzibit'
+p1093
+aS'Ya Boy'
+p1094
+aS'Yaki Kadafi'
+p1095
+aS'Yazz The Greatest'
+p1096
+aS'YC'
+p1097
+aS'Yelawolf'
+p1098
+aS'YG'
+p1099
+aS'Yo Gotti'
+p1100
+aS'Yo Yo Honey Singh'
+p1101
+aS'Young Bleed'
+p1102
+aS'Young Buck'
+p1103
+aS'Young Chop'
+p1104
+aS'Young Chris'
+p1105
+aS'Young Dre the Truth'
+p1106
+aS'Young Dro'
+p1107
+aS'Young Jeezy'
+p1108
+aS'Young Maylay'
+p1109
+aS'Young MC'
+p1110
+aS'Young Noble'
+p1111
+aS'Young Scooter'
+p1112
+aS'Young Thug'
+p1113
+aS'Val Young'
+p1114
+aS'Your Old Droog'
+p1115
+aS'Yoon Mi-rae'
+p1116
+aS'Yubin'
+p1117
+aS'Yukmouth'
+p1118
+aS'Yung Berg'
+p1119
+aS'Yung Joc'
+p1120
+aS'Yung L.A.'
+p1121
+aS'Yung Lean'
+p1122
+aS'Yung Wun'
+p1123
+aS'Yung6ix'
+p1124
+aS'YZ'
+p1125
+aS'Zaytoven'
+p1126
+aS'Zebra Katz'
+p1127
+aS'Z-Ro'
+p1128
+aS'Zico'
+p1129
+a.
