@@ -1,5 +1,6 @@
 """
-Script written to parse through html files in "songs" directory and pull artist, date, title, and lyrics from each song. Corpus is formatted as a dictionary of dictionaries (for MongoDB).
+Script written to parse through html files in "songs" directory and pull artist, date, title, and lyrics from each song.
+Corpus is formatted as a dictionary of dictionaries (for MongoDB).
 """
 
 from bs4 import BeautifulSoup as bf
