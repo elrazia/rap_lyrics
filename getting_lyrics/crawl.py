@@ -1,5 +1,6 @@
 """
-Script scrapes html from RapGenius for portion of song links in pickle, utilizing Crawlera credentials to switch IP address between each request, and writes html to a file in "songs" directory
+Script scrapes html from RapGenius for portion of song links in pickle, utilizing Crawlera credentials to switch IP address
+between each request, and writes html to a file in "songs" directory
 """
 
 import pickle
