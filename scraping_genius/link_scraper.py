@@ -1,3 +1,7 @@
+"""
+Searches artists on RapGenius and scrapes links for ~200 songs per artist. Links are written to pickle
+"""
+
 from selenium import webdriver
 import pandas as pd
 import numpy as np
