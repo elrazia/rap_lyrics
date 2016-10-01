@@ -1,3 +1,7 @@
+"""
+Script written to parse through html files in "songs" directory and pull artist, date, title, and lyrics from each song. Corpus is formatted as a dictionary of dictionaries (for MongoDB).
+"""
+
 from bs4 import BeautifulSoup as bf
 import os
 import pickle
@@ -54,3 +58,6 @@ for filename in os.listdir('/Users/El-Razi/ds/metis/git/rap_lyrics/songs/'):
     except:
         print 'failure'
         pass
+
+with open('corpus.pkl', 'wb') as handle:
+            pickle.dump(rap_corpus, handle)
