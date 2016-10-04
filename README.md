@@ -4,9 +4,12 @@
 <br/>
 ***Objective:*** Utilize K-means clustering and NMF for topic modeling to show that though rap is changing, it's not necessarily a [dying genre](https://www.google.com/search?q=hip+hop+dying&oq=hip+hop+dying&aqs=chrome..69i57.2351j0j1&sourceid=chrome&ie=UTF-8).
 <br/>
+<br/>
 ***Tools:*** Selenium, Beautiful Soup, MongoDB, Amazon Web Services, Python (Pandas, Numpy, Sklearn, Matplotlib)
 <br/>
+<br/>
 ***Methodology:*** Scraped lyrics of ~220,000 songs from Rap Genius. Cleaned corpus and used tf-idf to weight words. Reduced feature space using PCA. Applied K-means clustering to corpus by era. Modeled topics from each era with NMF.
+<br/>
 <br/>
 ***Conclusions:*** "MC's get a little bit of love and think they hot. Talking bout how much money they got; all y'all records sound the same [...]" - Dead Prez
 <br/>
