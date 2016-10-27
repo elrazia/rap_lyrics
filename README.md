@@ -13,24 +13,24 @@
 <br/>
 **Conclusions:** 
 <br/>
-``` "You got to have style, and learn to be original [...]" - KRS-One
-```
+
+*"You got to have style, and learn to be original [...]" - KRS-One*
 <br/>
 In the 1980s, hip hop music was still in its nascence and artists were using the genre to make statements. The statements varied by rap group and by neighborhood, but the messages were loud and clear. KRS-One wanted to "Stop the Violence", Run-D.M.C repudiated "Sucker MCs", and the Juice Crew let it be known that [hip hop originated in Queensbridge](https://en.wikipedia.org/wiki/The_Bridge_Wars). LL Cool J [needed love](https://en.wikipedia.org/wiki/I_Need_Love)—preferably from an [around the way girl](https://en.wikipedia.org/wiki/Around_the_Way_Girl), Public Enemy preached [black nationalism](https://en.wikipedia.org/wiki/It_Takes_a_Nation_of_Millions_to_Hold_Us_Back), and N.W.A. brought police brutality into the national spotlight. The distinct styles and messages are evident in the way that the analysis groups the artists based on lyrics. Lyrics from individual rappers cluster together with other rappers from a particular rap group. Chuck D's lyrics and Flavor Flav's lyrics (both members of Public Enemy) end up in the same cluster. Rev Run, DMC, and Jam Master Jay (all of Run-D.M.C) end up in the same cluster. The Beastie Boys end up in the same cluster. The algorithm finds patterns in regional vernacular and to a greater extent, lyrical content, and groups similar rappers together.
 <br/>
 <br/>
-``` "MC's get a little bit of love and think they hot. Talking bout how much money they got; all y'all records sound the same [...]" - Dead Prez
-```
+
+*"MC's get a little bit of love and think they hot. Talking bout how much money they got; all y'all records sound the same [...]" - Dead Prez*
 <br/>
-In the 1990s and 2000s, as hip hop began to commercialize and artists discovered what consumers wanted to hear, styles and lyrical content began to coalesce. From a data standpoint, this manifests itself in the clusters become less distinct. Rap groups no longer cluster together, and artists appear in multiple clusters. In short, the algorithm was unable to group rappers as the decades went on due to the lyrical content becoming more similar.
+In the 1990s and 2000s, as hip hop began to commercialize and artists discovered what consumers wanted to hear, styles and lyrical content began to coalesce. From a data standpoint, this manifests itself in the clusters becoming less distinct. Rap groups no longer cluster together, and artists appear in multiple clusters. In short, the algorithm was unable to group rappers as the decades went on due to the lyrical content becoming more similar.
 <br/>
-So commercialization of hip hop music led to artists in large part rapping about the same things. Can we identify what these things are? That is to say: what topics were people rapping about in the 80s, and what topics are they rapping about today? The lyrics in the dataset fell predominantly into one of four categories: Social/Political, Violence/Gangster, Partying/Drugs, Wealth/Materialism. Social and Political hip-hop was peaked in the 80s subset. Violence and Gangster rap was the predominant topic of the 90s subset. Partying, Drugs, and Materialism dominated the 2000s and 2010s.
+So commercialization of hip hop music led to artists in large part rapping about the same things. Can we identify what these things are? That is to say: what topics were people rapping about in the 80s, and what topics are they rapping about today? The lyrics in the dataset fell predominantly into one of four categories: Social/Political, Violence/Gangster, Partying/Drugs, Wealth/Materialism. Social and Political hip-hop led the way in the 80s subset. Violence and Gangster rap was the predominant topic of the 90s subset. Partying, Drugs, and Materialism dominated the 2000s and 2010s.
 <br/>
 <br/>
-```"Super Nintendo, Sega Genesis. When I was dead broke, man, I couldn't picture this. 50-inch screens, money-green leather sofa. Got two rides, a limousine with a chauffeur" - Notorious B.I.G
-```
+
+*"Super Nintendo, Sega Genesis. When I was dead broke, man, I couldn't picture this. 50-inch screens, money-green leather sofa. Got two rides, a limousine with a chauffeur" - Notorious B.I.G*
 <br/>
 The trajectory of hip hop music gravitated away from political commentary, which only affected a portion of the population. The message of coming from a rough background and making it big was more in line with the [American Dream](https://en.wikipedia.org/wiki/American_Dream), something the majority of consumers were able to identify with.
 <br/>
 <br/>
-The take away? There are indeed changes that have happened over hip hop's 35+ year run. It's both conceivable and understandable for people to conflate these changes with the decline of the genre. That being said, Spotify [analyzed 20 billion tracks](http://www.independent.co.uk/arts-entertainment/music/news/hip-hop-is-the-most-listened-to-genre-in-the-world-according-to-spotify-analysis-of-20-billion-10388091.html) in 2015 and found that hip hop is still the most popular genre in the world. The genre is changing, sure, but it's also as popular as it ever was.
+The take away? There are indeed changes that have happened over hip hop's 35+ year run. It's both conceivable and understandable for people to conflate these changes with the decline of the genre. That being said, Spotify [analyzed 20 billion tracks](http://www.independent.co.uk/arts-entertainment/music/news/hip-hop-is-the-most-listened-to-genre-in-the-world-according-to-spotify-analysis-of-20-billion-10388091.html) in 2015 and found that hip hop is still the most popular genre in the world. The genre is changing, sure, but it's still as popular as it ever was.
