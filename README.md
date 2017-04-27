@@ -2,16 +2,24 @@
 ##### Documenting the decline of rap music using NLP
 
 <br/>
+
 **Objective:** Utilize unsupervised learning and topic modeling to highlight the changes in rap music over time that are leading people to believe that [the genre is on the decline](https://www.google.com/search?q=hip+hop+dying&oq=hip+hop+dying&aqs=chrome..69i57.2351j0j1&sourceid=chrome&ie=UTF-8).
+
 <br/>
 <br/>
+
 **Tools:** Selenium, Crawlera, Beautiful Soup, MongoDB, Amazon Web Services, Python (Pandas, Numpy, Sklearn, Matplotlib)
+
 <br/>
 <br/>
+
 **Methodology:** Scraped lyrics of ~220,000 songs from Rap Genius. Cleaned corpus and used tf-idf to weight words. Reduced feature space using PCA. Applied K-means clustering to corpus by era. Modeled topics from each era with NMF.
+
 <br/>
 <br/>
+
 **Conclusions:** 
+
 <br/>
 
 *"You got to have style, and learn to be original [...]" - KRS-One*
