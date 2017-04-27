@@ -4,24 +4,16 @@
 <br/>
 
 **Objective:** Utilize unsupervised learning and topic modeling to highlight the changes in rap music over time that are leading people to believe that [the genre is on the decline](https://www.google.com/search?q=hip+hop+dying&oq=hip+hop+dying&aqs=chrome..69i57.2351j0j1&sourceid=chrome&ie=UTF-8).
-
 <br/>
 <br/>
-
 **Tools:** Selenium, Crawlera, Beautiful Soup, MongoDB, Amazon Web Services, Python (Pandas, Numpy, Sklearn, Matplotlib)
-
 <br/>
 <br/>
-
 **Methodology:** Scraped lyrics of ~220,000 songs from Rap Genius. Cleaned corpus and used tf-idf to weight words. Reduced feature space using PCA. Applied K-means clustering to corpus by era. Modeled topics from each era with NMF.
-
 <br/>
 <br/>
-
 **Conclusions:** 
-
 <br/>
-
 *"You got to have style, and learn to be original [...]" - KRS-One*
 <br/>
 The 1980s were the nascent years of hip hop music. Early rappers had distinct styles and used the genre to make bold statements. The statements varied by rap group and by neighborhood, but the messages were loud and clear. KRS-One wanted to "Stop the Violence", Run-D.M.C repudiated "Sucker MCs", and the Juice Crew let it be known that [hip hop originated in Queensbridge](https://en.wikipedia.org/wiki/The_Bridge_Wars). LL Cool J [needed love](https://en.wikipedia.org/wiki/I_Need_Love)—preferably from an [around the way girl](https://en.wikipedia.org/wiki/Around_the_Way_Girl), Public Enemy preached [black nationalism](https://en.wikipedia.org/wiki/It_Takes_a_Nation_of_Millions_to_Hold_Us_Back), and N.W.A. brought police brutality into the national spotlight. These styles and statements are evident in the way that the analysis groups the artists based on lyrics. Lyrics from individual rappers cluster together with other rappers from a particular rap group. Chuck D's lyrics and Flavor Flav's lyrics (both members of Public Enemy) end up in the same cluster. Rev Run, DMC, and Jam Master Jay (all of Run-D.M.C) end up in the same cluster. The Beastie Boys end up in the same cluster. The algorithm finds patterns in regional vernacular and to a greater extent, lyrical content, and groups similar rappers together.
